@@ -1,0 +1,9 @@
+<!DOCTYPE html> #文件型別宣告
+
+元素(ELEMENTS)
+<起始標籤（opening tag）> 內容（content）</結束標籤（closing tag）>
+
+<em> </em> #斜體字
+
+<html>
+<head>
